@@ -1,0 +1,15 @@
+# Build output
+build/
+.gradle/
+
+# Test server (Paper jar, worlds, logs, generated configs)
+run/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db

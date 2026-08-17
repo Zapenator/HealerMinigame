@@ -1,0 +1,14 @@
+HealerMinigame
+==============
+
+This project is a standalone extraction of the healer revive minigame from
+CivLabs' MiniEvents plugins. The minigame logic (the injury/healthy-item revive
+inventory, click handling, and progress bar) originated from CivLabs and was
+adapted here into a self-contained training minigame with timing and a
+leaderboard. Only how the minigame is accessed was changed; its mechanics are
+unchanged from the original.
+
+Original source (CivLabs):
+  https://github.com/Emergent-Civilization/MiniEvents-Specialization
+
+All credit for the original minigame goes to CivLabs.

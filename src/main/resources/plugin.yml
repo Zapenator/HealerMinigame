@@ -1,0 +1,12 @@
+name: HealerMinigame
+version: '${version}'
+main: com.zapenator.healerMinigame.HealerMinigame
+api-version: '1.21'
+load: POSTWORLD
+author: zapenator
+description: Standalone training version of the CivLabs healer revive minigame, with timing and a leaderboard.
+commands:
+  healer:
+    description: Healer revive training minigame.
+    usage: /healer <start|leaderboard|personalBest>
+    aliases: [healertraining]
