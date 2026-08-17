@@ -1,8 +1,12 @@
 # HealerMinigame
 
+[![Latest release](https://img.shields.io/github/v/release/Zapenator/HealerMinigame?label=download&sort=semver)](https://github.com/Zapenator/HealerMinigame/releases/latest)
+
 A standalone Paper plugin that turns CivLabs' healer **revive minigame** into a
 solo **training** exercise — start it on demand, get timed, and race for the
 fastest revive on a server leaderboard.
+
+**➡ [Download the latest release](https://github.com/Zapenator/HealerMinigame/releases/latest)** — grab the `HealerMinigame-x.y.z.jar` and drop it into your Paper 1.21.x server's `plugins/` folder. No building required.
 
 > **Origin & credit:** The revive minigame originated from **CivLabs'** MiniEvents
 > plugins. This project extracts just that minigame into a self-contained plugin
